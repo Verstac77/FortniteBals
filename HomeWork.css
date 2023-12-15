@@ -1,0 +1,39 @@
+@font-face {
+    font-family:"Minecraft";
+    src: url(Minecraft\ Seven.zip);
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: size 150px; ;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 900;
+    font-style:normal ;
+    color: black;
+    color: rgb(220, 157, 20);
+}
+p {
+    text-transform: capitalize;
+    text-transform: uppercase;
+    text-transform: lowercase;
+    text-transform: none;
+
+    text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: line-through;
+    text-decoration: underline line-through;
+    text-decoration: none;
+
+    text-shadow: 5px 4px 3px #999;
+
+
+    text-align: left;
+    text-align: right;
+    text-align: justify;
+    text-align: center;
+    text-align: none;
+
+    text-indent: 60px;
+
+}
